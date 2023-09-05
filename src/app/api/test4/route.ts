@@ -1,4 +1,3 @@
-h / userAuth";
 import { NextRequest, NextResponse } from "next/server";
 import { currentUser } from "@clerk/nextjs";
 
